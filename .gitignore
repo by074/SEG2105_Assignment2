@@ -1,0 +1,51 @@
+﻿# =============================
+# .gitignore for Eclipse + Java Projects
+# =============================
+
+# Build / compiled files
+/bin/
+/build/
+/out/
+/target/
+
+# Eclipse project files
+.classpath
+.project
+.settings/
+
+# IntelliJ / VSCode
+.idea/
+*.iml
+.vscode/
+
+# Logs / temp files
+*.log
+*.tmp
+*.bak
+*.swp
+*.swo
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+desktop.ini
+
+# Backup or temporary files
+~*
+*.orig
+*.rej
+
+# Java-specific
+*.class
+*.jar
+*.war
+*.ear
+
+# Ignore test results or personal files
+*.xlsx
+*.docx
+*.pdf
+*.zip
+
+# End of file
